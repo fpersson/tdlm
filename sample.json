@@ -1,0 +1,18 @@
+{
+  "srcdir" : "./dir",
+  "format" : "markdown",
+  "description" : "hello, world",
+  "outfile" : "gist",
+  "filter" : [
+    {
+      "filetype" : ".h",
+      "filetype" : ".cpp"
+    }
+  ],
+  "oauth" : [
+  {
+    "username" : "a_name",
+    "oauthfile" : "./my_oautkey"
+  }
+  ]
+}
